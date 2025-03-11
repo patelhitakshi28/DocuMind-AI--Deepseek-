@@ -28,7 +28,3 @@
 3. **Markdown Formatting**: Used proper Markdown tags (e.g., `##`, `-`, ```) for better readability and preview on GitHub.
 4. **Troubleshooting Section**: Added common issues and solutions to help users.
 5. **UI Customization**: Highlighted the dark-themed UI and its components.
-
----
-
-Let me know if you'd like further tweaks or additional sections! 🚀
